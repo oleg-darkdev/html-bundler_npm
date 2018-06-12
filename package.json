@@ -1,6 +1,6 @@
 {
-  "name": "4",
-  "version": "0.0.1",
+  "name": "node-html-bundler",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "valid:js": "gulp validation:js",
@@ -17,7 +17,7 @@
     "size:archive": "tarball=\"$(npm pack .)\"; wc -c \"${tarball}\"; tar tvf \"${tarball}\"; rm \"${tarball}\";",
     "bash": "bash bashfile.sh"
   },
-  "license": "MIT",
+  "license": "CC BY-NC-SA 4.0",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-plugin-external-helpers": "^6.22.0",
