@@ -1,0 +1,10 @@
+{
+  "ext":{
+      "src": "-debug.js",
+      "min": ".js"
+  },
+  "exclude": ["tasks"],
+  "ignoreFiles": [".combo.js", "-min.js"]
+}
+
+
