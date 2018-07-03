@@ -1,6 +1,6 @@
 {
   "name": "node-html-bundler",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "valid:js": "gulp validation:js",
